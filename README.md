@@ -16,6 +16,7 @@ The "REST With Spring" Classes: http://bit.ly/restwithspring
 - [Upload Files With GraphQL in Java](https://www.baeldung.com/java-graphql-upload-file)
 
 ### GraphQL sample queries
+![img.png](img.png)
 
 Query
 ```shell script
